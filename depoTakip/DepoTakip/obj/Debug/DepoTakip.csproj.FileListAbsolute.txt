@@ -1,0 +1,17 @@
+C:\Users\Fatma Duran\Documents\Visual Studio 2013\Projects\DepoTakip\DepoTakip\obj\Debug\DepoTakip.csprojResolveAssemblyReference.cache
+C:\Users\Fatma Duran\Documents\Visual Studio 2013\Projects\DepoTakip\DepoTakip\bin\DepoTakip.dll.config
+C:\Users\Fatma Duran\Documents\Visual Studio 2013\Projects\DepoTakip\DepoTakip\bin\DepoTakip.dll
+C:\Users\Fatma Duran\Documents\Visual Studio 2013\Projects\DepoTakip\DepoTakip\bin\DepoTakip.pdb
+C:\Users\Fatma Duran\Documents\Visual Studio 2013\Projects\DepoTakip\DepoTakip\bin\DAL.dll
+C:\Users\Fatma Duran\Documents\Visual Studio 2013\Projects\DepoTakip\DepoTakip\bin\DAL.pdb
+C:\Users\Fatma Duran\Documents\Visual Studio 2013\Projects\DepoTakip\DepoTakip\obj\Debug\DepoTakip.dll
+C:\Users\Fatma Duran\Documents\Visual Studio 2013\Projects\DepoTakip\DepoTakip\obj\Debug\DepoTakip.pdb
+C:\Users\Fatma Duran\depostaj\DepoTakip\bin\DepoTakip.dll.config
+C:\Users\Fatma Duran\depostaj\DepoTakip\bin\DepoTakip.dll
+C:\Users\Fatma Duran\depostaj\DepoTakip\bin\DepoTakip.pdb
+C:\Users\Fatma Duran\depostaj\DepoTakip\bin\DAL.dll
+C:\Users\Fatma Duran\depostaj\DepoTakip\bin\DAL.pdb
+C:\Users\Fatma Duran\depostaj\DepoTakip\obj\Debug\DepoTakip.dll
+C:\Users\Fatma Duran\depostaj\DepoTakip\obj\Debug\DepoTakip.pdb
+C:\Users\Fatma Duran\depostaj\DepoTakip\obj\Debug\DepoTakip.csprojAssemblyReference.cache
+C:\Users\Fatma Duran\depostaj\DepoTakip\obj\Debug\DepoTakip.csproj.CopyComplete

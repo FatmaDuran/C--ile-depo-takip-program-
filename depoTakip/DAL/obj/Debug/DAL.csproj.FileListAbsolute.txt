@@ -1,0 +1,10 @@
+C:\Users\Fatma Duran\Documents\Visual Studio 2013\Projects\DepoTakip\DAL\bin\Debug\DAL.dll
+C:\Users\Fatma Duran\Documents\Visual Studio 2013\Projects\DepoTakip\DAL\bin\Debug\DAL.pdb
+C:\Users\Fatma Duran\Documents\Visual Studio 2013\Projects\DepoTakip\DAL\obj\Debug\DAL.dll
+C:\Users\Fatma Duran\Documents\Visual Studio 2013\Projects\DepoTakip\DAL\obj\Debug\DAL.pdb
+C:\Users\Fatma Duran\Documents\Visual Studio 2013\Projects\DepoTakip\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Fatma Duran\depostaj\DAL\bin\Debug\DAL.dll
+C:\Users\Fatma Duran\depostaj\DAL\bin\Debug\DAL.pdb
+C:\Users\Fatma Duran\depostaj\DAL\obj\Debug\DAL.dll
+C:\Users\Fatma Duran\depostaj\DAL\obj\Debug\DAL.pdb
+C:\Users\Fatma Duran\depostaj\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
